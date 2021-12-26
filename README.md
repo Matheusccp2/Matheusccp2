@@ -11,3 +11,5 @@
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusccp2&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusccp2&layout=compact)](https://github.com/Matheusccp2/github-readme-stats)
+
+![Snake animation](https://github.com/Matheusccp2/Matheusccp2/blob/output/github-contribution-grid-snake.svg)
