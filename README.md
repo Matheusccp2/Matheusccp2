@@ -3,7 +3,7 @@
 <img width="100%" src="https://i.imgur.com/PSedduP.png" alt="my banner">
 
 # 💫 About Me:
-🌱 Atualmente estou aprendendo HTML, CSS e JavaScript<br><br>📫 Como chegar até mim? contato.matheusccp5@gmail.com
+🌱 Atualmente estou aprendendo HTML, CSS e JavaScript<br><br>📫 Como chegar até mim? contato.matheusccp2@gmail.com
 
 
 ## 🌐 Socials:
