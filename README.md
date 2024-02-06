@@ -1,39 +1,46 @@
 # Olá 👋, meu nome é Matheus
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Unip.
+<br><br>
+Atualmente trabalho como Estágiario de TI nos setores de Suporte Técnico e Manutenção de Computadores.
+<br><br>
+No momento meu foco de estudos tem sido Desenvolvimento Web. Sou aluno da plataforma Alura e estou me aprofundando nos cursos de Formação Frontend. Estou aberto a novas oportunidades no mundo do desenvolvimento.
+</p>
 
-<img width="100%" src="https://i.imgur.com/PSedduP.png" alt="my banner">
+📌 [Meu portifólio]()
 
-# 💫 About Me:
-🌱 Atualmente estou aprendendo HTML, CSS e JavaScript<br><br>📫 Como chegar até mim? contato.matheusccp2@gmail.com
+<div align="center">
+
+ <div>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Matheusccp2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusccp2&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+ </div>
+
+ ### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="52" alt="github logo"/>
+          
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusccp2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusccp2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/matheusccp2) 
+### Minhas Redes Sociais
+ 
+ <a href="https://linkedin.com/in/Matheusccp2">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/matheusccp2">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+ <a href="https://api.whatsapp.com/send?phone=5551997783444&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Peguei%20seu%20contato%20no%20GitHub.">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>
+ <a href="https://discord.com/users/330879245603831808">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
+ <a href="">
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+ </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Matheusccp2&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Matheusccp2&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusccp2&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Matheusccp2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Matheusccp2&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📊 Github Status
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=matheusccp2"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=matheusccp2&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusccp2&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/matheusccp2"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusccp2"><p>
-
-![Snake animation](https://github.com/Matheusccp2/Matheusccp2/blob/output/github-contribution-grid-snake.svg)
+ </div>
