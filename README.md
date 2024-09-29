@@ -1,8 +1,7 @@
 # Olá 👋, meu nome é Matheus
 
-<p align="center">
-  <img src="https://unsplash.com/pt-br/fotografias/macbook-pro-dentro-da-sala-cinzenta-B3l0g6HLxr8" alt="Imagem computador" width="100%"/>
-</p>
+![Computador](./images/computador.png)
+
 
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas na Unip.
 <br>
