@@ -1,7 +1,6 @@
 # Olá 👋, meu nome é Matheus
 
-![Computador](./images/computador.png)
-
+![Computador](./images/computador.jpg)
 
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas na Unip.
 <br>
