@@ -2,14 +2,21 @@
 
 ![Computador](./images/computador.jpg)
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Unip.
-<br>
-Atualmente trabalho com Suporte de Técnico em TI.
-<br>
-No momento meu foco de estudos tem sido Desenvolvimento Web. Sou aluno da plataforma Alura e Udemy, me aprofundando em cursos da área Frontend. Estou aberto a novas oportunidades no mundo do desenvolvimento.
+<p>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), apaixonado por tecnologia e inovação.</p>
+
+<p>💻 Atualmente possuo conhecimentos em HTML, CSS e JavaScript, e estou em constante busca de aprimorar minhas habilidades em tecnologias como React, Node.js e TypeScript. Durante minha jornada acadêmica, já desenvolvi projetos práticos, incluindo:</p>
+
+<p> - Criação de aplicações web interativas com foco em experiência do usuário; <br>
+- Integração de APIs para comunicação entre sistemas utilizando C#; <br>
+- Projetos voltados para solução de problemas reais, como aplicações para totens e sites institucionais. <br>
+- 📜 Possuo certificações em conteúdos essenciais de desenvolvimento web e também em Metodologias Ágeis, o que me permite trabalhar de forma eficiente e organizada em equipes multidisciplinares.
 </p>
 
+<p>🚀 Meu objetivo é crescer na área de tecnologia, sempre buscando novas oportunidades de aprendizado e desafiando meus limites. Tenho um interesse especial em projetos que envolvam desenvolvimento front-end.</p>
+
 📌 [Meu portifólio]()
+
+<hr>
 
 <div align="center">
 
