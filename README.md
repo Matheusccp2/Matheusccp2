@@ -38,7 +38,7 @@
 ## ⭐ Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusccp2&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=8&theme=nord&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusccp2&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=nord&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=matheusccp2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1&card_width=300" height="200" alt="stats graph"  />
 </div>
 <div align="left">
