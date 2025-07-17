@@ -1,60 +1,46 @@
-# Olá 👋, meu nome é Matheus
+<h1> Olá, meu nome é Matheus! 👋 </h1>
 
-![Computador](./images/computador.jpg)
+### Sobre Mim 
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">⚙️ Web Developer<br>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>💼 IT2B / TJSP Suporte Técnico <br>2 Certificações: GenAI Technical Certification, AI-Assisted Certified Professional | by Compass UOL part of AI-R</p>
-
-###
-
-<p align="left">Durante minha jornada acadêmica, já desenvolvi projetos práticos, incluindo:<br><br>- Criação de aplicações web interativas com foco em experiência do usuário;<br>- Integração de APIs para comunicação entre sistemas utilizando C#;<br>- Projetos voltados para solução de problemas reais, como aplicações para totens e sites institucionais.<br>- 📜 Possuo certificações em conteúdos essenciais de desenvolvimento web e também em Metodologias Ágeis, o que me permite trabalhar de forma eficiente e organizada em equipes multidisciplinares.</p>
-
-###
-
+<p>
+  ⚙️ Desenvolvedor Web </br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP </br>
+  💼 Certificações em: GenAI Technical Certification, AI-Assisted Certified Professional | by Compass UOL part of AI-R
+</p>
+<p>
+  Sou um desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.</br>
+  Atualmente, tenho direcionado meus estudos em Desenvolvimento Web e busco aplicar cada novo aprendizado em projetos práticos, fortalecendo minha base técnica e contribuindo com código limpo, reutilizável e bem documentado. Acredito na tecnologia como meio para resolver problemas reais e gerar impacto positivo.
+</p>
 <div align="left">
-  <a href="https://matheusccp2.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=linkedin&label=%F0%9F%94%97&color=0077B5&logoColor=&labelColor=0077B5&style=for-the-badge" height="32" alt="linkedin logo"  />
+  <a href="https://matheusccp2.github.io/portfolio/" target="_blank" style="text-doc">
+      <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&label=&color=0077B5&logoColor=&labelColor=0077B5&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://linkedin.com/in/Matheusccp2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.matheusccp5@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-###
+## 💻 Tecnologias e linguagens
+![My Skills](https://skillicons.dev/icons?i=js,typescript)
 
-<h2 align="left">Tecnologias</h2>
+### 🚀 Fremeworks e Bibliotecas
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,vite,bootstrap,tailwind)
 
-###
+### 🗃️ Banco de Dados
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+
+### 🛠️ Ferramentas de desenvolvimento
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,notion)
+
+## ⭐ Stats
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusccp2&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=nord&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusccp2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
-
-###
-<h2 align="left">Redes Sociais</h2>
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
-</div>
-
-<hr>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusccp2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusccp2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusccp2&radius=10&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
