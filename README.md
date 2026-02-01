@@ -9,13 +9,13 @@
 </p>
 
 <div align="left">
-  <a href="https://matheusccp2.github.io/portfolio/" target="_blank" style="text-doc">
+  <a href="https://myportfolio-matheusccp2.vercel.app/" target="_blank" style="text-doc">
       <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&label=&color=0077B5&logoColor=&labelColor=0077B5&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://linkedin.com/in/Matheusccp2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.matheusccp5@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.matheusccp2@gmail.com" title="Gmail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
