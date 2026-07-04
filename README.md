@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Matheus Costa | Desenvolvedor de Software
+  ## Matheus Costa | Desenvolvedor Web
   
 </div>
 
